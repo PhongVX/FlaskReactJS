@@ -11,6 +11,8 @@ Bundle
 ```
 npm run build
 ```
-Run
+Run App
 
-`python app.py` 
+Python version: 2.7.15
+
+`python run_dev.py` 
